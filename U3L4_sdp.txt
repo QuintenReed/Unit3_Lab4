@@ -1,0 +1,11 @@
+1. 
+   a. Either when it finds it or when it's down to 1 card
+   b. When it's down to 1 card
+2. Splitting the list and checking one side of it
+3. 
+   a. 0
+   b. No change
+   c. Move right
+4. 
+   a. 4
+   b. Binary search will use less steps by skipping items that are guaranteed not to be right
